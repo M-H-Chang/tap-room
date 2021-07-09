@@ -72,6 +72,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Tap Room
 
+### Diagram
+![Tap Diagram](https://user-images.githubusercontent.com/75760190/125145102-fac78380-e0d4-11eb-8f8a-768e01723912.png)
+
 ###Description
 _This application lets you add beverages from the tap to the list to edit, add, and delete each drink that you add letting users create an application full of different types of drinks._
 
